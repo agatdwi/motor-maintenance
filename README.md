@@ -209,7 +209,7 @@ Distributed under MIT License. See `LICENSE` for more information.
 
 Dibuat dengan ❤️ oleh [AgatZ]
 
-- GitHub: [@username](https://github.com/agatdwi)
+- GitHub: [@agatdwi](https://github.com/agatdwi)
 - Email: agatdwisubaktiyan444@gmail.com
 
 ## 🙏 Acknowledgments
