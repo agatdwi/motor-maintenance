@@ -188,9 +188,9 @@ Aplikasi menggunakan SQLite dengan 3 tabel utama:
 Kontribusi sangat diterima! Ikuti langkah berikut:
 
 1. Fork repository
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
+2. Buat feature branch (`git checkout -b motorfis/bogkarmotor`)
+3. Commit changes (`git commit -m 'Add some bogkarmotor'`)
+4. Push to branch (`git push origin motorfis/bogkarmotor)
 5. Open Pull Request
 
 ## 📝 Roadmap
