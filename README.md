@@ -35,7 +35,7 @@ Aplikasi desktop modern untuk mengelola jadwal perawatan motor dengan antarmuka 
 ![Services](https://files.catbox.moe/msrbxj.png)
 
 ### Tema Berbeda
-![Themes]([)](https://files.catbox.moe/0fci2x.png)
+![Themes](https://files.catbox.moe/0fci2x.png)
 
 ## 🚀 Instalasi
 
