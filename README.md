@@ -29,13 +29,13 @@ Aplikasi desktop modern untuk mengelola jadwal perawatan motor dengan antarmuka 
 ## 📸 Screenshots
 
 ### Tampilan Utama
-![Dashboard](https://via.placeholder.com/800x500/1e293b/ffffff?text=Motor+Maintenance+Dashboard)
+![Dashboard](https://files.catbox.moe/0dii6t.png)
 
 ### Panel Servis
-![Services](https://via.placeholder.com/800x500/0f1720/ffffff?text=Service+Management+Panel)
+![Services](https://files.catbox.moe/msrbxj.png)
 
 ### Tema Berbeda
-![Themes](https://via.placeholder.com/800x500/2563eb/ffffff?text=Multiple+Theme+Options)
+![Themes]([)](https://files.catbox.moe/0fci2x.png)
 
 ## 🚀 Instalasi
 
